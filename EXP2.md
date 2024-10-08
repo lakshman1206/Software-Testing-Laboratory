@@ -17,7 +17,7 @@ Algorithm:
 6. Stop the program.
 ### Program:
 
-'''
+```
 r1, c1 = input("enter row and column count in matrix 1: ").split()
 r2, c2 = input("enter row and column count in matrix 2: ").split()
 if r1.isnumeric() and c1.isnumeric() and r2.isnumeric() and c2.isnumeric():
@@ -65,7 +65,7 @@ else:
     else:
             print("Reason to fail: Alphabets are not allowed enter valid integer")
 
-'''
+```
 
 
 
