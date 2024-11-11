@@ -1,5 +1,5 @@
 # Ex.No: 5 Python program for Binary Search and inspect for failures. 
-### DATE:
+### DATE: 10-09-24
 ### REGISTER NUMBER :212221040168
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
